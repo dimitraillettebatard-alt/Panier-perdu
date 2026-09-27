@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-titre: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-texte: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background-color: #FAF8F5;
+  color: #0B1B3A;
+}
